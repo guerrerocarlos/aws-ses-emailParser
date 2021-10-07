@@ -32,7 +32,8 @@
 
 # Deploy this serverless function 
 
- npm install
- serverless deploy
+ > npm install
+ 
+ > serverless deploy
 
 # Go to AWS SES Management Console and setup a Rule Set 
