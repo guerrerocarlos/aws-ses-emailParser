@@ -6,7 +6,8 @@
  - Create a bucket in AWS S3
  - Add this policy to the bucket, replace BUCKET_NAME and YOUR_ACCOUNT_ID with yours:
 
-```{
+```
+{
     "Version": "2012-10-17",
     "Statement": [
         {
@@ -31,7 +32,7 @@
 
 # Deploy this serverless function 
 
- > npm install
- > serverless deploy
+ npm install
+ serverless deploy
 
 # Go to AWS SES Management Console and setup a Rule Set 
