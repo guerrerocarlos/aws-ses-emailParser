@@ -30,7 +30,7 @@
 
 # Configuration
 
-The S3 bucket where AWS SES delivers the emails and the bucket where you want the attachments to be stored in the `config.js file
+The S3 bucket where AWS SES delivers the emails and the bucket where you want the attachments to be stored in the `config.js` file
 
 # Deployment
 
