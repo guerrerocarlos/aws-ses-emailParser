@@ -1,6 +1,6 @@
-## How to
+# How to
 
-# Requirements
+## Requirements
 
  - Have AWS SES configured with your domain
  - Create a bucket in AWS S3
@@ -28,9 +28,9 @@
 }
 ```
 
-## Deployment
+# Deployment
 
-# Deploy this serverless function 
+## Deploy this serverless function 
 
 Execute:
 
@@ -38,7 +38,7 @@ Execute:
  
  > serverless deploy
 
-# Go to AWS SES Management Console and setup a Rule Set 
+## Go to AWS SES Management Console and setup a Rule Set 
 
 ![Management Console Rule Set](https://user-images.githubusercontent.com/82532/136384918-1940c5d8-793f-4cdf-b1f5-69b4a0a1dc82.jpg)
 
